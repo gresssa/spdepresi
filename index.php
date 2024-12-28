@@ -1,4 +1,4 @@
-<?php header('location: user/');
+
 
 <!DOCTYPE html>
 <html lang="en">
